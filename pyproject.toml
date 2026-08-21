@@ -1,17 +1,17 @@
 [project]
-name = "0-module"
+name = "hse-ai"
 version = "0.1.0"
-description = "Add your description here"
+description = "HSE AI Coursework and Homeworks"
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.13, <3.14"
 dependencies = [
-    "matplotlib>=3.11.1",
-    "nbformat>=5.11.1",
-    "numba>=0.67.0",
-    "numpy>=2.5.2",
-    "pandas>=3.0.5",
-    "plotly>=6.9.0",
-    "seaborn>=0.13.2",
+    "matplotlib>=3.8.0",
+    "nbformat>=5.9.0",
+    "numba>=0.60.0",
+    "numpy>=2.0.0",
+    "pandas>=2.2.0",
+    "plotly>=5.20.0",
+    "seaborn>=0.13.0",
 ]
 
 [dependency-groups]
